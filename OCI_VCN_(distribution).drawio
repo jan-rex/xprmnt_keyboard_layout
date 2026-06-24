@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ItQbkqGiMphXbBPfO_Ge">
-    <mxGraphModel dx="1183" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2633,7 +2633,7 @@
         <mxCell id="6YNjnEO0xa3laQHdsvQA-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;fontStyle=0;" value="&lt;div&gt;&lt;b&gt;Toggle layer&lt;/b&gt;: Switch to a given layer.&lt;/div&gt;&lt;div&gt;Tap this key again to return to the current layer.&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="280" x="241" y="4200" as="geometry" />
         </mxCell>
-        <mxCell id="6YNjnEO0xa3laQHdsvQA-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="TL" vertex="1">
+        <mxCell id="6YNjnEO0xa3laQHdsvQA-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="TG" vertex="1">
           <mxGeometry height="40" width="120" x="120" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="To" vertex="1">
@@ -2643,10 +2643,10 @@
           <mxGeometry height="40" width="280" x="240" y="4320" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="TT" vertex="1">
-          <mxGeometry height="40" width="120" x="124.5" y="4680" as="geometry" />
+          <mxGeometry height="40" width="120" x="120" y="4520" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;div&gt;&lt;b&gt;Layer Tap-Toggle&lt;/b&gt;: If you hold the key down, the layer becomes active, and then deactivates when you let go.&lt;/div&gt;&lt;div&gt;And if you tap it, the layer simply becomes active (toggles on).&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="280" x="244.5" y="4680" as="geometry" />
+          <mxGeometry height="40" width="280" x="240" y="4520" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-154" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="47.84711076816132" x="557" y="4200" as="geometry" />
@@ -2679,7 +2679,7 @@
           <mxGeometry height="6" width="35" x="12.84711076816132" y="14.410159095366453" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-169" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="47.84711076816132" x="561.5" y="4680" as="geometry" />
+          <mxGeometry height="40" width="47.84711076816132" x="557" y="4520" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-170" parent="6YNjnEO0xa3laQHdsvQA-169" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;glass=0;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="3.85" as="geometry" />
@@ -2699,8 +2699,8 @@
         <mxCell id="6YNjnEO0xa3laQHdsvQA-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;t&lt;/span&gt;&lt;/sup&gt;⊟1" vertex="1">
           <mxGeometry height="40" width="40" x="611" y="4320" as="geometry" />
         </mxCell>
-        <mxCell id="6YNjnEO0xa3laQHdsvQA-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;t&lt;/span&gt;&lt;/sup&gt;⊟1" vertex="1">
-          <mxGeometry height="40" width="40" x="615.5" y="4680" as="geometry" />
+        <mxCell id="6YNjnEO0xa3laQHdsvQA-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;tt&lt;/span&gt;&lt;/sup&gt;⊟1" vertex="1">
+          <mxGeometry height="40" width="40" x="611" y="4520" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=18;" value="LM" vertex="1">
           <mxGeometry height="40" width="120" x="124.5" y="4760" as="geometry" />
@@ -2903,7 +2903,7 @@
         <mxCell id="6YNjnEO0xa3laQHdsvQA-254" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;fontSize=8;dashed=1;" value="Layer 0" vertex="1">
           <mxGeometry height="20" width="40" x="920" y="4120" as="geometry" />
         </mxCell>
-        <mxCell id="6YNjnEO0xa3laQHdsvQA-270" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;t&lt;/span&gt;&lt;/sup&gt;TL&lt;sub&gt;1&lt;/sub&gt;" vertex="1">
+        <mxCell id="6YNjnEO0xa3laQHdsvQA-270" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;t&lt;/span&gt;&lt;/sup&gt;TG&lt;sub&gt;1&lt;/sub&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="720" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-271" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;fontSize=8;dashed=1;" value="On Layer 1" vertex="1">
@@ -2939,7 +2939,7 @@
         <mxCell id="6YNjnEO0xa3laQHdsvQA-283" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;fontSize=8;dashed=1;" value="&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;tap&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="40" x="720" y="4180" as="geometry" />
         </mxCell>
-        <mxCell id="6YNjnEO0xa3laQHdsvQA-284" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;t&lt;/span&gt;&lt;/sup&gt;TL&lt;sub&gt;1&lt;/sub&gt;" vertex="1">
+        <mxCell id="6YNjnEO0xa3laQHdsvQA-284" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" value="&lt;sup&gt;&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;t&lt;/span&gt;&lt;/sup&gt;T&lt;sub&gt;G1&lt;/sub&gt;" vertex="1">
           <mxGeometry height="40" width="40" x="959.53" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="6YNjnEO0xa3laQHdsvQA-285" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;fontSize=8;dashed=1;" value="&lt;span style=&quot;color: light-dark(rgb(255, 179, 102), rgb(255, 179, 102));&quot;&gt;tap&lt;/span&gt;" vertex="1">
