@@ -122,13 +122,13 @@
           <mxGeometry height="40" width="120" x="920" y="40" as="geometry" />
         </mxCell>
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=8;verticalAlign=top;spacing=5;fontColor=light-dark(#CCCCCC,#CCCCCC);strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="&lt;div&gt;Se permite que un layer (no base) pueda tener un Key con un Layer Key que apunte a un Layer superior, pero tiene su&amp;nbsp;&lt;/div&gt;&lt;div&gt;forna de funcionar:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[L0]+Key1[MO-A] --&amp;gt; [LA]&lt;/div&gt;&lt;div&gt;[L0]+Key2[MO-B] --&amp;gt; [LB]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LA]+Key1[BLOKED]&lt;/div&gt;&lt;div&gt;[LA]+Key2[MO-C]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LB]+Key2[BLOKED]&lt;/div&gt;&lt;div&gt;[LB]+Key1[MO-C]&lt;/div&gt;&lt;div&gt;==&lt;/div&gt;&lt;div&gt;[L0]+Key1+Key2 --&amp;gt; [LC]&lt;/div&gt;&lt;div&gt;[L0]+Key2+Key1 --&amp;gt; [LC]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="120" x="440" y="440" as="geometry" />
+          <mxGeometry height="200" width="120" x="920" y="520" as="geometry" />
         </mxCell>
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Helvetica;fontColor=light-dark(#CCCCCC,#CCCCCC);fontStyle=0;align=left;verticalAlign=top;spacing=5;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="Pareciera que fuera Como un COMBO KEY" vertex="1">
-          <mxGeometry height="40" width="120" x="560" y="400" as="geometry" />
+          <mxGeometry height="40" width="120" x="920" y="480" as="geometry" />
         </mxCell>
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Tri-layer switching" vertex="1">
-          <mxGeometry height="40" width="120" x="440" y="400" as="geometry" />
+          <mxGeometry height="40" width="120" x="800" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
