@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="8">
   <diagram id="WDpVuOltpGS5tGwg3vch" name="MindMap">
-    <mxGraphModel dx="2449" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1652" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-8" edge="1" parent="1" source="SFEExGhnpZTE2x3UHIcy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="PVjUXIFA3hKDwHGmNf4V-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFEExGhnpZTE2x3UHIcy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;div&gt;LAYERS&lt;/div&gt;" vertex="1">
+        <mxCell id="SFEExGhnpZTE2x3UHIcy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fontSize=20;" value="&lt;div&gt;LAYERS&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="440" y="200" as="geometry" />
         </mxCell>
         <mxCell id="SFEExGhnpZTE2x3UHIcy-6" edge="1" parent="1" source="SFEExGhnpZTE2x3UHIcy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SFEExGhnpZTE2x3UHIcy-5" value="">
@@ -62,6 +62,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-53" edge="1" parent="1" source="SFEExGhnpZTE2x3UHIcy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PVjUXIFA3hKDwHGmNf4V-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,7 +141,7 @@
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=8;verticalAlign=top;spacing=5;fontColor=light-dark(#CCCCCC,#CCCCCC);strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="&lt;div&gt;Se permite que un layer (no base) pueda tener un Key con un Layer Key que apunte a un Layer superior, pero tiene su&amp;nbsp;&lt;/div&gt;&lt;div&gt;forna de funcionar:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[L0]+Key1[MO-A] --&amp;gt; [LA]&lt;/div&gt;&lt;div&gt;[L0]+Key2[MO-B] --&amp;gt; [LB]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LA]+Key1[BLOKED]&lt;/div&gt;&lt;div&gt;[LA]+Key2[MO-C]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LB]+Key2[BLOKED]&lt;/div&gt;&lt;div&gt;[LB]+Key1[MO-C]&lt;/div&gt;&lt;div&gt;==&lt;/div&gt;&lt;div&gt;[L0]+Key1+Key2 --&amp;gt; [LC]&lt;/div&gt;&lt;div&gt;[L0]+Key2+Key1 --&amp;gt; [LC]&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="120" x="920" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="PVjUXIFA3hKDwHGmNf4V-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Helvetica;fontColor=light-dark(#CCCCCC,#CCCCCC);fontStyle=0;align=left;verticalAlign=top;spacing=5;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="Pareciera que fuera Como un COMBO KEY" vertex="1">
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Helvetica;fontColor=light-dark(#CCCCCC,#CCCCCC);fontStyle=0;align=left;verticalAlign=top;spacing=5;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="Pareciera que fuera Como un COMBO KEY por capas" vertex="1">
           <mxGeometry height="40" width="120" x="920" y="480" as="geometry" />
         </mxCell>
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Tri-layer switching" vertex="1">
@@ -261,17 +268,23 @@
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-43" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#CCCCCC,#CCCCCC);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K2" vertex="1">
           <mxGeometry height="20" width="20" x="140" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PVjUXIFA3hKDwHGmNf4V-44" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#CCCCCC,#CCCCCC);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K1" vertex="1">
-          <mxGeometry height="20" width="20" x="240" y="120" as="geometry" />
-        </mxCell>
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-45" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#CCCCCC,#CCCCCC);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K2" vertex="1">
           <mxGeometry height="20" width="20" x="260" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="PVjUXIFA3hKDwHGmNf4V-46" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#CCCCCC,#CCCCCC);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K2" vertex="1">
-          <mxGeometry height="20" width="20" x="100" y="200" as="geometry" />
-        </mxCell>
         <mxCell id="PVjUXIFA3hKDwHGmNf4V-47" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#CCCCCC,#CCCCCC);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K1" vertex="1">
           <mxGeometry height="20" width="20" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-44" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K1" vertex="1">
+          <mxGeometry height="20" width="20" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-46" parent="PVjUXIFA3hKDwHGmNf4V-51" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;strokeColor=light-dark(#FF0000,#FF0000);fontColor=light-dark(#CCCCCC,#CCCCCC);" value="K2" vertex="1">
+          <mxGeometry height="20" width="20" x="100" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Layer Lock" vertex="1">
+          <mxGeometry height="40" width="120" x="800" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Helvetica;fontColor=light-dark(#CCCCCC,#CCCCCC);fontStyle=0;align=left;verticalAlign=top;spacing=5;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="En un Layer A, a un key se le asigna un &quot;Lock Layer&quot;, al presionarse hace que dicho Layer quede bloqueado (locked) para salir de dicho layer se debe volver a presionar dicho key" vertex="1">
+          <mxGeometry height="90" width="120" x="920" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
