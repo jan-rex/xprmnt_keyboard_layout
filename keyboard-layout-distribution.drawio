@@ -7,7 +7,7 @@
         <mxCell id="SFEExGhnpZTE2x3UHIcy-3" edge="1" parent="1" source="SFEExGhnpZTE2x3UHIcy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="SFEExGhnpZTE2x3UHIcy-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SFEExGhnpZTE2x3UHIcy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;LAYERS&lt;/div&gt;" vertex="1">
+        <mxCell id="SFEExGhnpZTE2x3UHIcy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;div&gt;LAYERS&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="440" y="200" as="geometry" />
         </mxCell>
         <mxCell id="SFEExGhnpZTE2x3UHIcy-6" edge="1" parent="1" source="SFEExGhnpZTE2x3UHIcy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SFEExGhnpZTE2x3UHIcy-5" value="">
@@ -55,34 +55,34 @@
             <mxPoint x="760" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFEExGhnpZTE2x3UHIcy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;metods&lt;/div&gt;" vertex="1">
+        <mxCell id="SFEExGhnpZTE2x3UHIcy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;div&gt;metods&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="640" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="SFEExGhnpZTE2x3UHIcy-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MO" vertex="1">
+        <mxCell id="SFEExGhnpZTE2x3UHIcy-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="MO" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="1ozNvOlgnEH9wsuhbJ1W-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TG" vertex="1">
+        <mxCell id="1ozNvOlgnEH9wsuhbJ1W-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="TG" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="_ivEr7z81PbLvRbeuj5H-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="To" vertex="1">
+        <mxCell id="_ivEr7z81PbLvRbeuj5H-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="To" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="t0TeWi17yKJcTfSTuIpJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OSL" vertex="1">
+        <mxCell id="t0TeWi17yKJcTfSTuIpJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="OSL" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="t0TeWi17yKJcTfSTuIpJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TT" vertex="1">
+        <mxCell id="t0TeWi17yKJcTfSTuIpJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="TT" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="t0TeWi17yKJcTfSTuIpJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LM" vertex="1">
+        <mxCell id="t0TeWi17yKJcTfSTuIpJ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="LM" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="SMcIU10bMlMFPgCyzsBE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LT" vertex="1">
+        <mxCell id="SMcIU10bMlMFPgCyzsBE-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="LT" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="SMcIU10bMlMFPgCyzsBE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="DF" vertex="1">
+        <mxCell id="SMcIU10bMlMFPgCyzsBE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="DF" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="SMcIU10bMlMFPgCyzsBE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PDF" vertex="1">
+        <mxCell id="SMcIU10bMlMFPgCyzsBE-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="PDF" vertex="1">
           <mxGeometry height="40" width="80" x="800" y="360" as="geometry" />
         </mxCell>
         <mxCell id="SSLCxqB_9ym9859gFG8n-11" edge="1" parent="1" source="SSLCxqB_9ym9859gFG8n-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="SMcIU10bMlMFPgCyzsBE-2">
@@ -121,11 +121,14 @@
         <mxCell id="SSLCxqB_9ym9859gFG8n-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF8000);" value="no return" vertex="1">
           <mxGeometry height="40" width="120" x="920" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PVjUXIFA3hKDwHGmNf4V-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tri-layer switching" vertex="1">
-          <mxGeometry height="40" width="120" x="440" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="PVjUXIFA3hKDwHGmNf4V-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=8;verticalAlign=top;spacing=5;" value="&lt;div&gt;Se permite que un layer (no base) pueda tener un Key con un Layer Key que apunte a un Layer superior, pero tiene su&amp;nbsp;&lt;/div&gt;&lt;div&gt;forna de funcionar:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[L0]+Key1[MO-A] --&amp;gt; [LA]&lt;/div&gt;&lt;div&gt;[L0]+Key2[MO-B] --&amp;gt; [LB]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LA]+Key1[BLOKED]&lt;/div&gt;&lt;div&gt;[LA]+Key2[MO-C]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LB]+Key2[BLOKED]&lt;/div&gt;&lt;div&gt;[LB]+Key1[MO-C]&lt;/div&gt;&lt;div&gt;==&lt;/div&gt;&lt;div&gt;[L0]+Key1+Key2 --&amp;gt; [LC]&lt;/div&gt;&lt;div&gt;[L0]+Key2+Key1 --&amp;gt; [LC]&lt;/div&gt;" vertex="1">
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=8;verticalAlign=top;spacing=5;fontColor=light-dark(#CCCCCC,#CCCCCC);strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="&lt;div&gt;Se permite que un layer (no base) pueda tener un Key con un Layer Key que apunte a un Layer superior, pero tiene su&amp;nbsp;&lt;/div&gt;&lt;div&gt;forna de funcionar:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[L0]+Key1[MO-A] --&amp;gt; [LA]&lt;/div&gt;&lt;div&gt;[L0]+Key2[MO-B] --&amp;gt; [LB]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LA]+Key1[BLOKED]&lt;/div&gt;&lt;div&gt;[LA]+Key2[MO-C]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[LB]+Key2[BLOKED]&lt;/div&gt;&lt;div&gt;[LB]+Key1[MO-C]&lt;/div&gt;&lt;div&gt;==&lt;/div&gt;&lt;div&gt;[L0]+Key1+Key2 --&amp;gt; [LC]&lt;/div&gt;&lt;div&gt;[L0]+Key2+Key1 --&amp;gt; [LC]&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="120" x="440" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Helvetica;fontColor=light-dark(#CCCCCC,#CCCCCC);fontStyle=0;align=left;verticalAlign=top;spacing=5;strokeColor=light-dark(#CCCCCC,#CCCCCC);" value="Pareciera que fuera Como un COMBO KEY" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="PVjUXIFA3hKDwHGmNf4V-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" value="Tri-layer switching" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
